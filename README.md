@@ -40,3 +40,4 @@ __Potential Improvements:__
 - Include air quality index or UV index
 - Multi-city comparison
 - Save results to file or JSON
+- Upgrade from CLI to a web app with more interactive features
